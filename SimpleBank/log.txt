@@ -1,0 +1,3 @@
+Se Hizo la transaccion,realizado a las:Thu Jun 03 10:37:34 COT 2021
+Se Hizo la transaccion,realizado a las:Thu Jun 03 10:38:12 COT 2021
+Se hizo el retiro,realizado a las:Thu Jun 03 10:38:12 COT 2021
